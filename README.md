@@ -1,2 +1,1 @@
-# Barbearia-Alura
-Curso HTML &amp; CSS
+# curso-alura-html
